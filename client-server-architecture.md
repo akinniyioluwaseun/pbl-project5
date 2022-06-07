@@ -7,7 +7,7 @@
 
 ### Creating Database User And Test Database
 
-![](creating-database-user-and-another-database.png)
+![](database-user.png)
 ---
 
 ### Configuring Mysql Bind Address
